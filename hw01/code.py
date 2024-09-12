@@ -44,7 +44,7 @@ class UniqueInt:
         with open(output_file_path, 'w') as file:
             file.write('\n'.join(map(str, unique_numbers)))
 
-# Main execution
+
 input_folder = r"C:\Users\RAISSA\Desktop\data-stratc\hw01\inputs"
 output_folder = r"C:\Users\RAISSA\Desktop\data-stratc\hw01\outputs"
 
